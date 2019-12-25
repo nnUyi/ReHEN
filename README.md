@@ -6,7 +6,7 @@
 # Abstract
    Single image deraining is an important problem in many computer vision tasks since rain streaks can severely hamper and degrade the visibility of images. In this paper, we propose a novel network named Recurrent Hierarchy Enhancement Network (ReHEN) to remove rain streaks from rainy images stage by stage. Unlike previous deep convolutional network methods, we adopt a Hierarchy Enhancement Unit (HEU) to fully extract local hierarchical features and generate effective features. Then a Recurrent Enhancement Unit (REU) is added to keep the useful information from HEU and benefit the rain removal in the later stages. To focus on different scales, shapes, and densities of rain streaks adaptively, Squeeze-and-Excitation (SE) block is applied in both HEU and REU to assign different scale factors to high-level features. Experiments on five synthetic datasets and a real-world rainy image set show that the proposed method outperforms the state- of-the-art methods considerably. The source code is available at https://github.com/nnUyi/ReHEN .
 
-<p align='center'><img src='./materials/ReHEN.png' height="600px"/></p>
+<p align='center'><img src='./materials/ReHEN.png' height="300px"/></p>
 
 # Dataset
 ## Synthetic Datasets
