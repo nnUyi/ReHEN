@@ -77,7 +77,7 @@
 # Results
 ## Visualization of Hidden Statuses
    <div align="center">
-      <img src="./materials/visualizationpng.png" height="600px" alt="visualization" >
+      <img src="./materials/visualizationpng.png" height="400px" alt="visualization" >
    </div>
    
 ## Average PSNR and SSIM values on five synthetic datasets
