@@ -24,7 +24,7 @@
    | [Real-World](https://github.com/nnUyi/DerainZoo) | - | 67 | - |
 
 # Pre-trained Model
-**We note that these models is trained on NVIDIA GeForce GTX1080Ti:**
+**We note that these models is trained on NVIDIA GeForce GTX1070:**
 
 | Datasets | Pre-trained model |
 | :------ | :--------------- |
@@ -45,7 +45,7 @@
    - **Clone this repo**
    ```
       $ git clone https://github.com/nnUyi/ReHEN
-      $ cd ReMAEN
+      $ cd ReHEN
       $ cd codes
    ```
 
