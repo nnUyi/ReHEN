@@ -29,7 +29,7 @@
 | Datasets | Pre-trained model |
 | :------ | :--------------- |
 | Rain100L | [Rain100L model](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
-| Rain100H | [Rain100H model TAB](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
+| Rain100H | [Rain100H model](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
 | Rain800 | [Rain800 model TAB](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
 | Rain1200 | [Rain1200 model TAB](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
 | Rain1400 | [Rain1400 model TAB](https://github.com/nnUyi/ReHEN/tree/master/codes/checkpoint/) |
