@@ -57,7 +57,7 @@
                                               --trainset_size 200
                                               --testset_size 100
                                               --iterations 60000
-                                              --lr 0.001
+                                              --lr 0.005
                                               --batch_size 32
    ```
 
